@@ -328,3 +328,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+svelte/public/bundle.*
+sapper/cypress/screenshots/
+sapper/__sapper__/
